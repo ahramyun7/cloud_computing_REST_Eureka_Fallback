@@ -1,0 +1,5 @@
+---
+applications:
+- name: AhramYun_ApiGateway
+  path: ./build/libs/ApiGateway-0.0.1-SNAPSHOT.jar
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git

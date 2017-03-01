@@ -1,0 +1,5 @@
+---
+applications:
+- name: AhramYun_AuthorService
+  path: ./build/libs/AuthorService-0.0.1-SNAPSHOT.jar
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
